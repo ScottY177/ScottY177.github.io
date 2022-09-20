@@ -18,7 +18,7 @@
       year: 2019-now
       description:
         - "Primary Major: Data Science"
-        - "Secondary Major: Cognitive Science specialized in Machine 
+        - "Secondary Major: Cognitive Science specializing in Machine 
         Learning and Neural Computation"
 
 - title: Experience
@@ -28,7 +28,7 @@
       institution: Department of Cognitive Science, University of California, San Diego
       year: 2022 Jun - now
       description:
-        - Electroencephalogram (EEG) data Reveals Memory Retrival Type
+        - Electroencephalogram (EEG) data Reveals Memory Retrieval Type
     - title: Instructional Apprenticeship (IA)
       institution: Department of Cognitive Science, University of California, San Diego
       description: 
@@ -38,15 +38,39 @@
 
     - title: Tutor
       institution: Halıcıoğlu Data Science Institute
-      year: 2022 Mar - Jun
+      year: 2022 Mar-Jun
       description:
-        - DSC 10
-        - DSC 30
-        - DSC 95
+        - DSC 10 - Principles of Data Science
+        - DSC 30 - Data Structure / Algorithm for Data Science
+        - DSC 95 - Tutor Apprenticeship in Data Science
 
     - title: Orientation Leader
       institution: Sixth College, University of California, San Diego
       year: 2020 - 2021
+      description:
+        Organized and hosted welcoming events for new incoming freshman and transfer students at Sixth College, UC San Diego.
+
+- title: Technical Skills
+  type: nested_list 
+  contents:
+    - title: Programming Languages
+      items: 
+        - Python (Proficient)
+        - Java (Proficient)
+        - JavaScript 
+        - R
+        - HTML
+    - title: Programming Packages
+      items:
+        - <a href="https://scikit-learn.org/stable/"> scikit learn <a/>
+        - <a href="https://pytorch.org">PyTorch<a/>
+        - <a href="https://d3js.org">d3.js<a/>
+        - <a href="https://matplotlib.org">matplotlib<a/>
+    - title: Instructional Tools
+      items:
+        - Gradescope Autograder
+        - Unit Testing
+        - <a href="https://nbgrader.readthedocs.io/en/stable/"> nbgrader <a/> (notebook grader)
 
 # - title: Open Source Projects
 #   type: time_table
@@ -61,6 +85,8 @@
     - year: 2022
       items: 
         - UC Scholars Summer Research Program
+        - Student Presenter at Summer Research Conference, UC San Diego
+        - Provost Honors
 
 - title: Other Interests
   type: list
