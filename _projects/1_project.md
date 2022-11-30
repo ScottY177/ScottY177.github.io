@@ -23,7 +23,7 @@ category: academic
 
 <!--</script>-->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
 const batch_draw = function () {
     let file_path = "../covid/data/Vaccine_Hesitancy.csv";
@@ -941,7 +941,7 @@ let experiment = function (file_path) {
 // Directly call suff here.
 batch_draw()
 
-</script>
+</script> -->
 
 <div>
     <!-- <h1>Final Project DSC106</h1> -->
