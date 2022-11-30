@@ -23,7 +23,7 @@ category: academic
 
 <!--</script>-->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
 const batch_draw = function () {
     let file_path = "../covid/data/Vaccine_Hesitancy.csv";
@@ -942,7 +942,7 @@ let experiment = function (file_path) {
 batch_draw()
 
 </script>
-
+ -->
 <div>
     <!-- <h1>Final Project DSC106</h1> -->
     <h2>Author: Scott Yang PID: A16166145</h2>
