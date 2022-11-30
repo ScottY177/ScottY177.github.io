@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: COVID Hesitancy in United States
 description: Interactive Data Visulization
@@ -1080,3 +1080,4 @@ batch_draw()
 <!--</div>-->
 
 </body>
+ -->
