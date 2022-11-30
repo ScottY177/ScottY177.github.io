@@ -8,7 +8,7 @@ category: academic
 ---
 
 <link rel="stylesheet" href="../covid/styles.css">
-<link href='https://fonts.googleapis.com/css?family=Fira Sans' rel='stylesheet'>
+<!-- <link href='https://fonts.googleapis.com/css?family=Fira Sans' rel='stylesheet'> -->
 <!-- Directly inject the javascript in the html file -->
 <!-- <script type="text/javascript" src="../covid/app.js"></script> -->
 <script src="../../assets/js/d3.min.js"></script>
