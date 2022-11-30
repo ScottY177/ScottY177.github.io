@@ -146,18 +146,3 @@ category: academic
     <h4>Plot:</h4>
     <div id="plot5" class="center_plot"></div>
 </div>
-
-<!--<div>-->
-<!--    <h3>Plot 6:</h3>-->
-<!--    <p>Visualize the Estimated Hesitant in different states</p>-->
-<!--    <ol>-->
-<!--        <li> <b>Graph Type</b>: Bar Plot </li>-->
-<!--        <li> <b> Keys and Values</b>: Vaccine hesitancy as value while the state as key-->
-<!--</li>-->
-<!--    </ol>-->
-
-<!--    <h4>Plot:</h4>-->
-<!--    <div id="plot6" class="center_plot"></div>-->
-<!--</div>-->
-
-</body>
