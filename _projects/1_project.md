@@ -30,35 +30,5 @@ Why it is not working injecting html in here...
     <h2>Author: Scott Yang PID: A16166145</h2>
 </div>
 
-<div>
-    <h3>Plot 1:</h3>
-    <p>Explore the relationship between vaccine hesitancy and social vulnerability.</p>
-    <ol>
-        <li> <b>Graph Type</b>: Scatter plot </li>
-        <li> <b> Keys and Values</b> : Social Vulnerability Index with vaccine hesitancy</li>
-       <li> <b>Choice of Color Scheme</b>: Use the plum as the datapoint and they are sub-transparent. Therefore,
-           point with higher opacity (darker plum color) means that they have more datapoint to it.
-       </li>
-        <li> <b>Marks</b>: Marks: Points & Lines.</li>
-        <li> <b>Channel</b>: both vertical & horizontal position for
-            the Points, The amount of Tilt for the regression line. </li>
-    </ol>
-
-    <h4>Plot:</h4>
-    <div id="radio_plot1" class="center_plot">
-        <div>
-            <label>
-                <input type="radio" name="hesitant" id="p1a" value="estimated_hesitant_unsure" checked="checked">
-            </label> Hesitant or Unsure
-            <label>
-                <input type="radio" name="hesitant" id="p1b" value="estimated_hesitant">
-            </label> Hesitant
-            <label>
-                <input type="radio" name="hesitant" id="p1c" value="estimated_strongly_hesitant">
-            </label> Strongly Hesitant
-        </div>
-    </div>
-    <div id="plot1" class="center_plot"></div>
-</div>
 
 
