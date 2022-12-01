@@ -23,6 +23,7 @@ category: academic
 
 <!--</script>-->
 
+Why it is not working injecting html in here...
 
 <div>
     <!-- <h1>Final Project DSC106</h1> -->
@@ -60,89 +61,4 @@ category: academic
     <div id="plot1" class="center_plot"></div>
 </div>
 
-<div>
-    <h3>Plot 2:</h3>
-    <p>Visualize the Estimated Hesitant in different states</p>
-    <ol>
-        <li> <b>Graph Type</b>: Bar Plot </li>
-        <li> <b> Keys and Values</b>: Vaccine hesitancy as value while the state as key</li>
-        <li> <b>Color Scheme</b>: Chocolate color for un-chosen bar, pink for chosen bar. This is to visually
-            emphasize the chosen bar</li>
-        <li> <b>Marks</b>: Points of each bar's starting point </li>
-        <li> <b>Channel</b>: The Area of each bars that indicates the Hesitancy rate </li>
-    </ol>
 
-    <h4>Plot:</h4>
-    <div id="radio_plot2" class="center_plot">
-        <div>
-            <label>
-                <input type="radio" name="hesitant2" id="p2a" value="estimated_hesitant_unsure" checked="checked">
-            </label> Hesitant or Unsure
-            <label>
-                <input type="radio" name="hesitant2" id="p2b" value="estimated_hesitant">
-            </label> Hesitant
-            <label>
-                <input type="radio" name="hesitant2" id="p2c" value="estimated_strongly_hesitant">
-            </label> Strongly Hesitant <br>
-            <button type="button" id="sort_button">Sort me!</button>
-        </div>
-    </div>
-    <div id="plot2" class="center_plot"></div>
-</div>
-
-<div>
-    <h3>Plot 3:</h3>
-    <p>Visualize the vaccination administrating progress in the United States by their vaccine type</p>
-    <ol>
-        <li> <b>Graph Type</b>: Stream Graph </li>
-        <li> <b> Keys and Values</b>: Date and Vaccine Manufacture as Keys, the amount administered as the value</li>
-        <li> <b>Color Scheme</b>: Four colors to show the categories of four different vaccine manufacture. No
-            ordinal relationship between each category</li>
-        <li> <b>Marks</b>: Areas of each stream graph to indicate the trend </li>
-        <li> <b>Channel</b>: Size to show the volume of each vaccine administered dose /Color to distinguish between
-            categories.
-        </li>
-    </ol>
-
-    <h4>Plot:</h4>
-    <div id="radio_plot3" class="center_plot">
-    </div>
-    <div id="plot3" class="center_plot"></div>
-</div>
-
-<div>
-    <h3>Plot 4:</h3>
-    <p>Visualize the difference between the fully vaccinated against COVID-19 rate
-        with respect to Social Vulnerability Index(SVI) Category</p>
-    <ol>
-        <li> <b>Graph Type</b>: Heat Map</li>
-        <li> <b> Keys and Values</b>:  SVI category as primary key and CVAC level of concerns as the second key
-            while the fully vaccinated rate as the value</li>
-        <li> <b>Color Scheme</b>: Light blue to indicate the percentage of the vaccination rate </li>
-        <li> <b>Marks</b>: Square-ish point that indexes each category </li>
-        <li> <b>Channel</b>: Both vertical and horizontal location to indicate the category of the point. Color to
-            indicate the proportion of the fully vaccination rate.
-        </li>
-    </ol>
-
-    <h4>Plot:</h4>
-    <div id="plot4" class="center_plot"></div>
-</div>
-
-<div>
-    <h3>Plot 5:</h3>
-    <p>Visualize the Relationship between Level of Social Vulnerability with the Hesitancy about vaccine.</p>
-    <ol>
-        <li> <b>Graph Type</b>: Box plot</li>
-        <li> <b> Keys and Values</b>: Vaccine hesitancy as value while the Level of Social Vulnerability as key</li>
-        <li> <b>Color Scheme</b>: Use the Blue color to indicate the box plot, while using the white point to
-            indicate each datapoint</li>
-        <li> <b>Marks</b>: Points and Area of the Box plot</li>
-        <li> <b>Channel</b>: For Points: Both vertical and horizontal position to indicate the category and the
-            value of the point <br> For Area, Both vertical and horizontal position to indicate the category and the
-            value of the boxes, and a line to shows the median summary statistic of the grpah </li>
-    </ol>
-
-    <h4>Plot:</h4>
-    <div id="plot5" class="center_plot"></div>
-</div>
