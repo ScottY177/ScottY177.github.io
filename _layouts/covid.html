@@ -19,7 +19,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>DSC106 Scott Final Proj</title>
+    <title>Visulization of COVID Hesitancy in United States</title>
 </head>
 
 
@@ -41,23 +41,13 @@
 <body>
 
 <div>
-    <h1>Final Project DSC106</h1>
-    <h2>Author: Scott Yang PID: A16166145</h2>
+    <h1>Visulization of COVID Hesitancy in United States</h1>
+    <h2>Author: Scott Yang</h2>
 </div>
 
 <div>
     <h3>Plot 1:</h3>
     <p>Explore the relationship between vaccine hesitancy and social vulnerability.</p>
-    <ol>
-        <li> <b>Graph Type</b>: Scatter plot </li>
-        <li> <b> Keys and Values</b> : Social Vulnerability Index with vaccine hesitancy</li>
-       <li> <b>Choice of Color Scheme</b>: Use the plum as the datapoint and they are sub-transparent. Therefore,
-           point with higher opacity (darker plum color) means that they have more datapoint to it.
-       </li>
-        <li> <b>Marks</b>: Marks: Points & Lines.</li>
-        <li> <b>Channel</b>: both vertical & horizontal position for
-            the Points, The amount of Tilt for the regression line. </li>
-    </ol>
 
     <h4>Plot:</h4>
     <div id="radio_plot1" class="center_plot">
@@ -79,14 +69,6 @@
 <div>
     <h3>Plot 2:</h3>
     <p>Visualize the Estimated Hesitant in different states</p>
-    <ol>
-        <li> <b>Graph Type</b>: Bar Plot </li>
-        <li> <b> Keys and Values</b>: Vaccine hesitancy as value while the state as key</li>
-        <li> <b>Color Scheme</b>: Chocolate color for un-chosen bar, pink for chosen bar. This is to visually
-            emphasize the chosen bar</li>
-        <li> <b>Marks</b>: Points of each bar's starting point </li>
-        <li> <b>Channel</b>: The Area of each bars that indicates the Hesitancy rate </li>
-    </ol>
 
     <h4>Plot:</h4>
     <div id="radio_plot2" class="center_plot">
@@ -109,16 +91,6 @@
 <div>
     <h3>Plot 3:</h3>
     <p>Visualize the vaccination administrating progress in the United States by their vaccine type</p>
-    <ol>
-        <li> <b>Graph Type</b>: Stream Graph </li>
-        <li> <b> Keys and Values</b>: Date and Vaccine Manufacture as Keys, the amount administered as the value</li>
-        <li> <b>Color Scheme</b>: Four colors to show the categories of four different vaccine manufacture. No
-            ordinal relationship between each category</li>
-        <li> <b>Marks</b>: Areas of each stream graph to indicate the trend </li>
-        <li> <b>Channel</b>: Size to show the volume of each vaccine administered dose /Color to distinguish between
-            categories.
-        </li>
-    </ol>
 
     <h4>Plot:</h4>
     <div id="radio_plot3" class="center_plot">
@@ -130,16 +102,6 @@
     <h3>Plot 4:</h3>
     <p>Visualize the difference between the fully vaccinated against COVID-19 rate
         with respect to Social Vulnerability Index(SVI) Category</p>
-    <ol>
-        <li> <b>Graph Type</b>: Heat Map</li>
-        <li> <b> Keys and Values</b>:  SVI category as primary key and CVAC level of concerns as the second key
-            while the fully vaccinated rate as the value</li>
-        <li> <b>Color Scheme</b>: Light blue to indicate the percentage of the vaccination rate </li>
-        <li> <b>Marks</b>: Square-ish point that indexes each category </li>
-        <li> <b>Channel</b>: Both vertical and horizontal location to indicate the category of the point. Color to
-            indicate the proportion of the fully vaccination rate.
-        </li>
-    </ol>
 
     <h4>Plot:</h4>
     <div id="plot4" class="center_plot"></div>
@@ -148,16 +110,6 @@
 <div>
     <h3>Plot 5:</h3>
     <p>Visualize the Relationship between Level of Social Vulnerability with the Hesitancy about vaccine.</p>
-    <ol>
-        <li> <b>Graph Type</b>: Box plot</li>
-        <li> <b> Keys and Values</b>: Vaccine hesitancy as value while the Level of Social Vulnerability as key</li>
-        <li> <b>Color Scheme</b>: Use the Blue color to indicate the box plot, while using the white point to
-            indicate each datapoint</li>
-        <li> <b>Marks</b>: Points and Area of the Box plot</li>
-        <li> <b>Channel</b>: For Points: Both vertical and horizontal position to indicate the category and the
-            value of the point <br> For Area, Both vertical and horizontal position to indicate the category and the
-            value of the boxes, and a line to shows the median summary statistic of the grpah </li>
-    </ol>
 
     <h4>Plot:</h4>
     <div id="plot5" class="center_plot"></div>
@@ -166,7 +118,6 @@
 
 </body>
 </html>
-
     <!-- Footer -->
     {%- include footer.html %}
 
