@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: COVID Hesitancy in United States
 description: Interactive Data Visulization
@@ -78,3 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+ -->
