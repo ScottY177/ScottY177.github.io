@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Interactive Quiz Module
 description: for grading purposes
@@ -7,4 +7,4 @@ importance: 5
 category: academic
 ---
 
-# Quiz Module
+# Quiz Module -->

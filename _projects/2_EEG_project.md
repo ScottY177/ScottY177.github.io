@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: EEG Predicts Familiarity
 description: a software revamp project
@@ -16,4 +16,4 @@ category: academic
 
 # Project Description
 
-We have built and trained several virtual agents performing various tasks in the virtual environment using deep reinforcement learning. By understanding the activation patterns of the agent’s virtual brains, we can discover whether our agents have successfully learned higher-level abstractions of their current states and the environment. We also investigated how our agents learn to achieve certain tasks through various online and offline learning methods, such as soft-actor-critic and imitation learning. In summary, this senior capstone project investigates a new approach to learning about animal ethology that leverages computational powers and deep neural networks. 
+We have built and trained several virtual agents performing various tasks in the virtual environment using deep reinforcement learning. By understanding the activation patterns of the agent’s virtual brains, we can discover whether our agents have successfully learned higher-level abstractions of their current states and the environment. We also investigated how our agents learn to achieve certain tasks through various online and offline learning methods, such as soft-actor-critic and imitation learning. In summary, this senior capstone project investigates a new approach to learning about animal ethology that leverages computational powers and deep neural networks.  -->
