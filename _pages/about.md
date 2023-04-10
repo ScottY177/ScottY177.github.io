@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student / Researcher @ <a herf="https://ucsd.edu/">UC San Diego</a>
+subtitle: RA @ UCSD cogsci \ Incoming Graduate Student @ UCSD cse
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Scott Yang. My Chinese name is 杨源嘉 (yáng yuán jiā). I am a fourth-year undergraduate student at the University of California, San Diego majoring in data science and Cognitive Science.
+Hello! I am Scott Yang. My Chinese name is 杨源嘉 (yáng yuán jiā). I am an incoming graduate student at the University of California, San Diego majoring in Computer Science. If you are one of my students in my TA-ing class or just want to talk to me, you can [schedule a 15-minute one-to-one office hour with me](/office_hour)
 
 Over the past academic years, I have been actively participating in several undergraduate course developments, including but not limited to designing and developing homework, programming assignment, project, and exams. In addition, I also produced material for and hosted discussion sections for DSC 30 (Data Structures and Algorithm in Data Science). I have an insatiable passion for helping my peers and students to succeed in their academic journey, especially in programming knowledge and experience.
 
